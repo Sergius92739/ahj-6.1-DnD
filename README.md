@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/dxm4bx2vcdcgukfe/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-6-1-dnd/branch/master)
 
+#### Deployment: https://sergius92739.github.io/ahj-6.1-DnD/
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)
